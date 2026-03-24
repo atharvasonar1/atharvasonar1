@@ -26,3 +26,5 @@ CS senior at Santa Clara University (graduating June 2026), focused on building 
 - [LinkedIn](https://linkedin.com/in/atharvasonar)
 - [GitHub](https://github.com/atharvasonar1)
 - [All Repositories](https://github.com/atharvasonar1?tab=repositories)
+
+![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvasonar1&show_icons=true&theme=default&hide_border=true&count_private=true)
