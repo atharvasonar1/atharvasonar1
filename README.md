@@ -14,7 +14,7 @@ CS senior at Santa Clara University (graduating June 2026), focused on building 
 
 - [OSS Pulse](https://github.com/atharvasonar1/oss-pulse): Open source project analytics and monitoring platform.
 - [Linux System Monitor](https://github.com/atharvasonar1/linux-monitor): Lightweight Linux health monitor using Bash, `/proc`, Podman, and systemd timers.
-- Bin2Bucks: Incentive-driven sustainability project for recyclable waste workflows.
+- [Bin2Bucks](https://github.com/paarthtangirala/scu-hack): Dual-sided recycling marketplace connecting households to independent drivers, built with React, TypeScript, Node.js, and Google Maps API.
 
 ## Experience
 
@@ -23,6 +23,6 @@ CS senior at Santa Clara University (graduating June 2026), focused on building 
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle/)
+- [LinkedIn](https://linkedin.com/in/atharvasonar)
 - [GitHub](https://github.com/atharvasonar1)
 - [All Repositories](https://github.com/atharvasonar1?tab=repositories)
